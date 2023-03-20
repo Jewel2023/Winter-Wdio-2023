@@ -21,5 +21,16 @@
     "@wdio/spec-reporter": "^8.4.0",
     "chromedriver": "^110.0.0",
     "wdio-chromedriver-service": "^8.1.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jewel2023/Winter-Wdio-2023.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jewel2023/Winter-Wdio-2023/issues"
+  },
+  "homepage": "https://github.com/Jewel2023/Winter-Wdio-2023#readme"
 }
